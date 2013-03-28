@@ -1,4 +1,4 @@
-Sketch-Recognition-Project
+Information-Retrieval-Project
 ==========================
 
 Mar.26:
@@ -13,4 +13,4 @@ getwordlist.py
 
 
 
-CSCE624
+CSCE670
